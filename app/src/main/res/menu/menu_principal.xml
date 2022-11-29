@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:title="Politica de Privacidade"  android:id="@+id/politica" app:showAsAction="never"/>
+    <item android:title="Download Messenger" android:id="@+id/messenger"  app:showAsAction="never"/>
+    <item android:title="Fundador"  android:id="@+id/fundador"  app:showAsAction="never"/>
+
+</menu>
